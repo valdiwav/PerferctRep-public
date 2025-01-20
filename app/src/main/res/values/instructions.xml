@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="training_instructions">
+    <![CDATA[
+
+    <b>1. Configuración de la Serie</b><br/>
+    Antes de comenzar, selecciona los siguientes parámetros:<br/>
+    - <font color="#FF0000">Peso:</font> Selecciona el peso con el que trabajarás.<br/>
+    - <font color="#FF0000">RIR Estimado:</font> Indica el RIR deseado para esta serie.<br/>
+    - <font color="#FF0000">Repeticiones Objetivo:</font> Especifica el número de repeticiones que aspiras hacer.<br/><br/>
+
+    <img src="set_config" width="200" height="200"/><br/><br/>
+
+    <b>2. Posición Frente a la Cámara</b><br/>
+    Una vez configurada la serie, colócate frente a la cámara frontal de tu dispositivo:<br/>
+    - <font color="#FF0000">Postura:</font> Asegúrate de que tu cuerpo completo sea visible.<br/>
+    - Tienes <b>10 segundos</b> para posicionarte correctamente.<br/>
+    Consejo: Procura que tu espacio esté bien iluminado para una mejor detección.<br/><br/>
+    <b><font color="#FF0000">Te recomendamos usar audífonos o subir el volumen, para escuchar claramente las correcciones.</font></b><br/><br/>
+
+
+
+    <img src="do_set" width="200" height="200"/><br/><br/>
+
+    <b>3. Realización de la Serie</b><br/>
+    Inicia tu serie y realiza las repeticiones con la mejor técnica posible:<br/>
+    - <font color="#FF0000">Mantén la postura:</font> Evita balancearte o usar impulso.<br/>
+    - <font color="#FF0000">Controla el movimiento:</font> Mantén una velocidad constante en cada repetición.<br/>
+    Consejo: Enfócate en la contracción de los músculos trabajados.<br/><br/>
+
+    <img src="position" width="200" height="200"/><br/><br/>
+
+    <b>4. Finalización de la Serie</b><br/>
+    Al terminar las repeticiones, presiona <b>"TERMINAR SERIE"</b> para ver el resumen:<br/>
+    - <font color="#FF0000">Repeticiones Completadas:</font> Cuántas repeticiones lograste.<br/>
+    - <font color="#FF0000">RIR Realizado:</font> Comparación del RIR estimado con el logrado.<br/>
+    - <font color="#FF0000">Peso Utilizado:</font> Peso que seleccionaste para esta serie.<br/><br/>
+
+    <img src="end_set" width="200" height="200"/><br/><br/>
+
+    <b>5. Continuar con la Próxima Serie o Finalizar Entrenamiento</b><br/>
+    Puedes optar por:<br/>
+    - <font color="#FF0000">Comenzar siguiente serie:</font> Configura el peso, RIR estimado, y repeticiones para la siguiente serie.<br/>
+    - <font color="#FF0000">Finalizar Ejercicio:</font> Termina el entrenamiento y revisa el feedback general.<br/><br/>
+
+    <img src="end_set_next_set" width="200" height="200"/><br/><br/>
+
+    <b>¡A Entrenar!</b><br/>
+    Recuerda que una técnica adecuada mejora tu rendimiento y reduce el riesgo de lesiones. ¿Estás listo para alcanzar tus metas?<br/>
+    <b>¡Disfruta y Entrena Seguro!</b>
+    ]]>
+</string>
+
+
+</resources>

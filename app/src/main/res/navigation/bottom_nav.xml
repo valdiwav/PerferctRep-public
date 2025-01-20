@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_nav"
+    app:startDestination="@id/fgHome">
+
+    <fragment
+        android:id="@+id/fgHome"
+        android:name="com.valdi.perfectrepapp.ui.fragments.HomeFragment"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/fgExcercise"
+        android:name="com.valdi.perfectrepapp.ui.fragments.ExerciseFragment"
+        tools:layout="@layout/fragment_excercise" />
+
+    <fragment
+        android:id="@+id/fgProfile"
+        android:name="com.valdi.perfectrepapp.ui.fragments.ProfileFragment"
+        tools:layout="@layout/fragment_profile"
+        />
+
+    <fragment
+        android:id="@+id/fgHelp"
+        android:name="com.valdi.perfectrepapp.ui.fragments.InstructionsFragment"
+        tools:layout="@layout/fragment_profile"
+        />
+
+
+</navigation>

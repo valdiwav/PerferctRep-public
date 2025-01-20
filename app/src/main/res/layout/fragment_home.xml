@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Title TextView -->
+    <TextView
+        android:layout_marginTop="30dp"
+        android:id="@+id/textViewUserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Inicio"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingBottom="16dp" />
+
+    <TextView
+        android:id="@+id/progressTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Consulta tu Progreso"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="left"/>
+
+    <TextView
+        android:id="@+id/progressSubTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ultimos Entrenamientos"
+        android:textSize="15sp"
+        android:textStyle="normal"
+        android:gravity="left"
+        android:paddingBottom="10dp" />
+
+    <!-- Mensaje de que no hay ejercicios -->
+    <TextView
+        android:id="@+id/textViewNoExercises"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aún no se registra ningún entrenamiento"
+        android:visibility="gone"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="18sp"
+        android:padding="16dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewExercises"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

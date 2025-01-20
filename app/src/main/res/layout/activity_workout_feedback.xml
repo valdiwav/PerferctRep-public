@@ -1,0 +1,137 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/titleWorkoutTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Resumen del Entrenamiento"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Contenedor horizontal para los TextView -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal">
+
+        <!-- Texto alineado a la izquierda -->
+        <TextView
+            android:id="@+id/exerciseTitleTextview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ejercicio:"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            android:layout_gravity="start" />
+
+        <!-- Espacio adicional para centrar el segundo texto -->
+        <View
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="1" />
+
+        <!-- Texto centrado -->
+        <TextView
+            android:id="@+id/exerciseTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bench Press"
+            android:textStyle="bold"
+            android:textSize="22sp" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/delimiter1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="8dp"
+        android:background="#8c8c8c"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <TextView
+        android:id="@+id/totalReps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="totalReps"
+        android:textSize="20sp"
+        android:textStyle="normal"
+        android:gravity="center"
+        android:layout_marginBottom="16dp" />
+    <TextView
+        android:id="@+id/averageWeight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="averageWeight"
+        android:textSize="20sp"
+        android:textStyle="normal"
+        android:gravity="center"
+        android:layout_marginBottom="16dp" />
+    <TextView
+        android:id="@+id/averageRir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="averageRir"
+        android:textSize="20sp"
+        android:textStyle="normal"
+        android:gravity="center"
+        android:layout_marginBottom="16dp" />
+
+    <View
+        android:id="@+id/delimiter2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="0dp"
+        android:background="#8c8c8c"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+
+
+    <TextView
+        android:id="@+id/title2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Detalles por Serie"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="left"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="16dp" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="20dp"
+        android:scrollbars="vertical" />
+
+    <Button
+        android:id="@+id/backHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@color/colorAccent"
+        android:text="Volver al Inicio"
+        android:textAllCaps="true"
+        app:cornerRadius="3dp"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</LinearLayout>
+
+

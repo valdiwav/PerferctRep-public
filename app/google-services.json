@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153749487583",
+    "project_id": "perfectreptft",
+    "storage_bucket": "perfectreptft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153749487583:android:becc8b8c345dce7ca6ce6a",
+        "android_client_info": {
+          "package_name": "com.valdi.perfectrepapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzr0R1q4FTb8EbDZCJyzSzPzo_qCzYqbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

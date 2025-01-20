@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/titleProfileTextView"
+            android:text="Mi Perfil"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+        <ImageView
+            android:id="@+id/imageViewPerfil"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="18dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/user_image"
+            android:background="@drawable/rounded_image_background"
+            android:clipToOutline="true"
+            android:layout_below="@id/titleProfileTextView"/>
+
+
+        <TextView
+            android:id="@+id/profileInfoTextView"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:text="Información"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/imageViewPerfil"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <!--Nombre-->
+        <TextView
+            android:id="@+id/titleNameProfile"
+            android:text="Nombre:"
+            android:textSize="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_below="@id/profileInfoTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/nameTextViewProfile"
+            android:textSize="15dp"
+            android:text="Cargando..."
+            android:layout_marginTop="15dp"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@id/profileInfoTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <!--Correo-->
+        <TextView
+            android:id="@+id/titleEmailProfile"
+            android:textSize="15dp"
+            android:text="Correo:"
+            android:layout_marginTop="15dp"
+            android:layout_below="@id/titleNameProfile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/emailTextViewProfile"
+            android:textSize="15dp"
+            android:text="Cargando..."
+            android:layout_marginTop="15dp"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@id/nameTextViewProfile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <!--Peso-->
+        <TextView
+            android:id="@+id/titleWeightProfile"
+            android:textSize="15dp"
+            android:text="Peso:"
+            android:layout_marginTop="15dp"
+            android:layout_below="@id/titleEmailProfile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/weightTextViewProfile"
+            android:textSize="15dp"
+            android:text="Cargando..."
+            android:layout_marginTop="15dp"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@id/emailTextViewProfile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <!--Altura-->
+        <TextView
+            android:id="@+id/titleHeightProfile"
+            android:textSize="15dp"
+            android:text="Altura:"
+            android:layout_marginTop="15dp"
+            android:layout_below="@id/titleWeightProfile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/heightTextViewProfile"
+            android:textSize="15dp"
+            android:text="Cargando..."
+            android:layout_marginTop="15dp"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@id/weightTextViewProfile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Space
+            android:id="@+id/spaceProfile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/heightTextViewProfile"/>
+
+        <Button
+            android:id="@+id/editProfileButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="true"
+            android:layout_centerInParent="true"
+            android:layout_below="@id/spaceProfile"
+            android:layout_marginTop="64dp"
+            android:text="Editar Perfil"
+            app:icon = "@drawable/ic_edit_square"
+            android:textColor="@color/white"
+            app:iconTint="@color/white"
+            android:backgroundTint="@color/colorPrimaryDark"
+            app:cornerRadius="3dp"/>
+
+        <Button
+            android:id="@id/logOutButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sessionsButton"
+            android:layout_marginTop="64dp"
+            android:textAllCaps="true"
+            app:icon = "@drawable/ic_logout"
+            app:iconTint="@color/white"
+            android:layout_centerInParent="true"
+            android:textColor="@color/white"
+            android:text="Cerrar Sesión"
+            android:backgroundTint="@color/colorAccent"
+            app:cornerRadius="3dp"/>
+
+        <Button
+            android:id="@+id/sessionsButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="true"
+            android:layout_centerInParent="true"
+            android:layout_below="@id/editProfileButton"
+            android:layout_marginTop="0dp"
+            android:text="Mis Entrenamientos"
+            app:icon = "@drawable/baseline_info_24"
+            android:textColor="@color/white"
+            app:iconTint="@color/white"
+            android:backgroundTint="@color/colorPrimaryDark"
+            app:cornerRadius="3dp"/>
+
+    </RelativeLayout>
+
+
+</ScrollView>

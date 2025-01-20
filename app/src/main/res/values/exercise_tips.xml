@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tips_biceps_curl">
+        <![CDATA[
+        <b>¡Hola! Vamos a Mejorar tu Curl de Bíceps Juntos</b><br/><br/>
+
+        <b>1. Control del Torso y del Core</b><br/>
+        Si sientes que tu torso se balancea al levantar el peso, es posible que el peso sea demasiado alto o que falte activación en el core.<br/>
+        <font color="#FF0000"><b>Importancia del control:</b></font> Evitar el balanceo asegura que los bíceps, no el torso, sean los responsables del movimiento, optimizando el trabajo muscular y reduciendo el riesgo de lesiones en la zona lumbar.<br/>
+        <b>¿Cómo lograr una postura estable?</b><br/>
+        - <font color="#FF0000">Reduce el peso:</font> Escoge un peso que puedas levantar sin necesidad de balancearte.<br/>
+        - <font color="#FF0000">Activa el core:</font> Contrae el abdomen y mantén el torso firme durante todo el ejercicio.<br/>
+        Consejo práctico: Intenta realizar el ejercicio con la espalda apoyada en la pared; esto te ayudará a concentrar el esfuerzo en los bíceps y a evitar el balanceo.<br/><br/>
+
+        <img src="bicep_curl_reco" width="200" height="200"/><br/><br/>
+
+        <b>2. Posición de los Codos</b><br/>
+        Si tus codos se mueven hacia adelante al levantar el peso, puede deberse a la activación de los deltoides anteriores, lo que resta efectividad al trabajo de los bíceps.<br/>
+        <font color="#FF0000"><b>Importancia de la estabilidad en los codos:</b></font> Mantener los codos cerca del torso ayuda a enfocar el esfuerzo en los bíceps, evitando que otros músculos asuman la carga.<br/>
+        <b>¿Cómo mantener los codos en su lugar?</b><br/>
+        - <font color="#FF0000">Posición estable de los codos:</font> Asegúrate de que los codos permanezcan cerca de los costados del torso sin desplazarse hacia adelante.<br/>
+        - <font color="#FF0000">Visualización:</font> Imagina que tus codos están pegados al cuerpo con "pegamento". Esta imagen te ayudará a recordar mantenerlos en una posición fija.<br/><br/>
+
+        <img src="bicep_curl_elbow" width="200" height="200"/><br/><br/>
+
+        <b>3. Control de la Velocidad y del Movimiento</b><br/>
+        Si realizas el curl de bíceps demasiado rápido, el impulso puede disminuir la efectividad del ejercicio y aumentar el riesgo de lesiones.<br/>
+        <font color="#FF0000"><b>Por qué es importante la velocidad controlada:</b></font> Trabajar lentamente aumenta el tiempo bajo tensión en los bíceps, lo que incrementa la efectividad del ejercicio y promueve un mejor desarrollo muscular.<br/>
+        <b>¿Cómo mantener un ritmo adecuado?</b><br/>
+        - <font color="#FF0000">Sube de forma controlada:</font> Eleva el peso de manera fluida y con control, en aproximadamente 1-2 segundos.<br/>
+        - <font color="#FF0000">Desciende lentamente:</font> Baja el peso en 2-3 segundos, manteniendo los bíceps en tensión.<br/>
+        Consejo práctico: Cuenta mentalmente “uno, dos” al levantar y “uno, dos, tres” al descender el peso para controlar la velocidad.<br/><br/>
+
+        <img src="bicep_curl_fase" width="200" height="200"/><br/><br/>
+
+        <b>¿Listo para Ponerlo en Práctica?</b><br/>
+        Recuerda que una técnica adecuada mejora tus resultados y disminuye el riesgo de lesiones.<br/>
+        ¡Cada repetición controlada es un paso más hacia tus objetivos!<br/><br/>
+        <b>¡A entrenar y disfrutar del proceso!</b>
+        ]]>
+    </string>
+
+
+
+    <string name="tips_squat">
+        <![CDATA[
+        <b>¡Hola! Vamos a Mejorar tu Técnica en Sentadillas Juntos</b><br/><br/>
+
+        <b>1. Distribución del Peso</b><br/>
+        ¿Sientes que aplicas más fuerza en una pierna que en la otra al hacer sentadillas?<br/>
+        <font color="#FF0000"><b>¿Por qué es importante?</b></font> La distribución uniforme del peso evita sobrecargar una pierna y ayuda a mantener la estabilidad y alineación.<br/>
+        <b>¿Cómo lograr un peso equilibrado en ambas piernas?</b><br/>
+        - <font color="#FF0000">Imagina anclar ambos pies al suelo:</font> Concentra el peso de manera equilibrada en los talones, el borde externo del pie y la base de los dedos para mayor estabilidad.<br/>
+        - <font color="#FF0000">Nivelación de las caderas:</font> Asegúrate de que tus caderas estén al mismo nivel y que ambos pies soporten el mismo peso al subir.<br/>
+        Consejo práctico: Visualiza que estás empujando el suelo hacia abajo con ambos pies al mismo tiempo para mantener la fuerza uniforme.<br/><br/>
+
+        <img src="squat_force_imbalance" width="200" height="200"/><br/><br/>
+
+        <b>2. Posición y Control de las Rodillas</b><br/>
+        ¿Notas que tus rodillas tienden a moverse hacia adentro al bajar?<br/>
+        <font color="#FF0000"><b>¿Por qué es importante?</b></font> La estabilidad de las rodillas asegura que la fuerza de la sentadilla se dirija correctamente hacia los músculos de las piernas, sin sobrecargar las articulaciones.<br/>
+        <b>¿Cómo alinear correctamente las rodillas?</b><br/>
+        - <font color="#FF0000">Mantén las rodillas en línea con los pies:</font> Durante la bajada, las rodillas deben seguir la línea de los dedos de los pies, sin desviarse hacia adentro.<br/>
+        - <font color="#FF0000">Activa los glúteos:</font> Los músculos de los glúteos ayudan a estabilizar las piernas. Puedes fortalecerlos con ejercicios como puentes de glúteos y laterales de cadera.<br/>
+        Consejo útil: Imagina que estás separando el suelo con tus pies, como si quisieras “abrir” un espacio entre ellos. Esto ayuda a mantener las rodillas alineadas.<br/><br/>
+
+        <img src="squat_knee_position" width="200" height="200"/><br/><br/>
+
+        <b>3. Control de la Velocidad y Profundidad</b><br/>
+        ¿Tiendes a bajar rápidamente en la sentadilla?<br/>
+        <font color="#FF0000"><b>¿Por qué es importante?</b></font> Bajar de forma controlada activa mejor los músculos, protege las articulaciones y te ayuda a ganar fuerza en el rango completo de movimiento.<br/>
+        <b>¿Cómo ejecutar la sentadilla de manera controlada?</b><br/>
+        - <font color="#FF0000">Desciende de forma lenta y controlada:</font> Baja en aproximadamente 3 segundos. Esto ayuda a mantener la tensión en los músculos de las piernas y mejora el control.<br/>
+        - <font color="#FF0000">Sube de forma potente y controlada:</font> Después de bajar lentamente, empuja hacia arriba con fuerza controlada, activando los músculos para un ascenso potente.<br/>
+        Consejo práctico: Cuenta “uno, dos, tres” mientras bajas. Esto te ayuda a mantener el control de la velocidad y asegura que el movimiento sea fluido.<br/><br/>
+
+        <img src="squat_speed_control" width="200" height="200"/><br/><br/>
+
+        <b>¿Listo para Ponerlo en Práctica?</b><br/>
+        Recuerda: La técnica correcta no solo protege tus articulaciones y mejora tu postura, sino que también maximiza los resultados.<br/>
+        ¡Cada sentadilla bien ejecutada te acerca más a tus objetivos de fuerza y estabilidad!<br/><br/>
+        <b>¡A entrenar y disfrutar el proceso!</b>
+        ]]>
+    </string>
+
+
+
+    <string name="tips_shoulder_press">
+        <![CDATA[
+        <b>¡Hola! Vamos a Mejorar tu Técnica en el Press de Hombro Juntos</b><br/><br/>
+
+        <b>1. Control de la Velocidad</b><br/>
+        ¿Sientes que bajas el peso demasiado rápido al hacer el press de hombro?<br/>
+        <font color="#FF0000"><b>¿Por qué es importante?</b></font> Bajar el peso de manera controlada no solo protege las articulaciones, sino que también aumenta la activación muscular en los hombros y brazos.<br/>
+        <b>¿Cómo lograr una bajada controlada?</b><br/>
+        - <font color="#FF0000">Desciende en aproximadamente 3 segundos:</font> Mantén el peso bajo control al bajar, permitiendo que los músculos absorban la carga.<br/>
+        - <font color="#FF0000">Establece una cadencia constante:</font> Baja despacio y, al subir, empuja de forma estable y controlada.<br/>
+        Consejo práctico: Cuenta mentalmente "uno, dos, tres" en la bajada. Esto te ayudará a mantener una velocidad adecuada.<br/><br/>
+
+        <img src="shoulderpress_speed_control" width="200" height="200"/><br/><br/>
+
+        <b>2. Posición de los Codos</b><br/>
+        ¿Tus codos se abren demasiado hacia los lados al empujar el peso hacia arriba?<br/>
+        <font color="#FF0000"><b>¿Por qué es importante?</b></font> Mantener los codos en la posición adecuada minimiza la tensión en los hombros y mejora la estabilidad del movimiento.<br/>
+        <b>¿Cómo mantener los codos correctamente alineados?</b><br/>
+        - <font color="#FF0000">Mantén los codos ligeramente hacia adelante:</font> Evita que se abran hacia los lados en exceso; un ángulo cercano al torso ayuda a mantener la alineación.<br/>
+        - <font color="#FF0000">Busca un ángulo cómodo:</font> Los codos no deben estar ni completamente pegados ni demasiado abiertos. Encuentra un ángulo que permita un empuje seguro.<br/>
+        Consejo práctico: Imagina que estás empujando el peso en una línea recta hacia arriba, sin que los codos se desvíen hacia los costados.<br/><br/>
+
+        <img src="shoulderpress_elbow_position" width="200" height="200"/><br/><br/>
+
+        <b>3. Equilibrio y Simetría en la Fuerza</b><br/>
+        ¿Sientes que un brazo empuja con más fuerza que el otro?<br/>
+        <font color="#FF0000"><b>¿Por qué es importante?</b></font> Mantener el equilibrio entre ambos lados evita que una parte del cuerpo asuma más carga, lo cual reduce el riesgo de lesiones y permite un desarrollo muscular uniforme.<br/>
+        <b>¿Cómo mantener la fuerza equilibrada?</b><br/>
+        - <font color="#FF0000">Concentra la fuerza de forma igual en ambos lados:</font> Visualiza que ambos brazos empujan el peso con la misma intensidad.<br/>
+        - <font color="#FF0000">Usa la misma trayectoria para ambos brazos:</font> Asegúrate de que ambos lados se muevan en una línea recta, ayudando a distribuir el esfuerzo de forma equilibrada.<br/>
+        Consejo práctico: Imagínate que ambos brazos suben y bajan a la vez, como si estuvieran sincronizados, para mantener una alineación uniforme.<br/><br/>
+
+        <img src="shoulderpress_balance_control" width="200" height="200"/><br/><br/>
+
+        <b>¿Listo para Ponerlo en Práctica?</b><br/>
+        Recuerda: Una buena técnica no solo mejora tus resultados, sino que también protege tus articulaciones a largo plazo.<br/>
+        ¡Cada repetición controlada te acerca más a tus objetivos!<br/><br/>
+        <b>¡A entrenar y disfrutar del proceso!</b>
+        ]]>
+    </string>
+
+
+    <string name="tips_deadlift">
+        <![CDATA[
+        <b>¡Hola! Vamos a Mejorar tu Técnica en el Peso Muerto Juntos</b><br/><br/>
+
+        <b>1. Control de la Velocidad en la Bajada</b><br/>
+        ¿Sientes que bajas la barra demasiado rápido durante el peso muerto?<br/>
+        <font color="#FF0000"><b>¿Por qué es importante?</b></font> Bajar la barra lentamente ayuda a reducir el impacto en la zona lumbar, protegiendo tus músculos y articulaciones.<br/>
+        <b>¿Cómo controlar la bajada correctamente?</b><br/>
+        - <font color="#FF0000">Desciende en unos 2-3 segundos:</font> Mantén un ritmo lento y estable mientras bajas la barra, manteniendo el control en cada centímetro.<br/>
+        - <font color="#FF0000">Usa tus músculos, no la gravedad:</font> Concéntrate en guiar la barra con los músculos de la espalda y las piernas para evitar que la barra caiga rápidamente.<br/>
+        Consejo práctico: Cuenta "uno, dos, tres" mientras bajas la barra para asegurar un descenso controlado.<br/><br/>
+
+        <img src="deadlift_speed_control" width="200" height="200"/><br/><br/>
+
+        <b>2. Mantén la Barra Pegada al Cuerpo</b><br/>
+        ¿Notas que la barra se aleja de tus piernas durante el movimiento?<br/>
+        <font color="#FF0000"><b>¿Por qué es importante?</b></font> Mantener la barra cerca del cuerpo reduce la tensión en la zona lumbar, ayudando a proteger tu espalda y mejorar la eficiencia del levantamiento.<br/>
+        <b>¿Cómo mantener la barra cerca del cuerpo?</b><br/>
+        - <font color="#FF0000">Asegura que la barra se deslice a lo largo de tus piernas:</font> La barra debe mantenerse en contacto con las canillas y los muslos durante el movimiento.<br/>
+        - <font color="#FF0000">Visualiza una trayectoria recta:</font> Desde el suelo hasta la posición final, la barra debería moverse en línea recta cerca del cuerpo.<br/>
+        Consejo práctico: Imagina que la barra “raspa” tus piernas para mantenerla alineada y cerca de ti.<br/><br/>
+
+        <img src="deadlift_bar_distance" width="200" height="200"/><br/><br/>
+
+        <b>3. Evita Encorvar la Espalda</b><br/>
+        ¿Sientes que tu espalda tiende a curvarse durante el levantamiento?<br/>
+        <font color="#FF0000"><b>¿Por qué es importante?</b></font> Mantener una postura recta protege la columna y asegura que los músculos trabajen de forma segura y efectiva.<br/>
+        <b>¿Cómo mantener una espalda recta?</b><br/>
+        - <font color="#FF0000">Activa el core y estabiliza la columna:</font> Antes de iniciar el levantamiento, contrae el abdomen y asegúrate de que tu espalda esté en una posición neutra.<br/>
+        - <font color="#FF0000">Mantén una postura sólida:</font> Evita que los hombros se adelanten o que la espalda se curve.<br/>
+        Consejo práctico: Imagina que tienes un palo de escoba alineado con tu columna desde la cabeza hasta la cadera. Esto te ayudará a recordar mantener la espalda recta.<br/><br/>
+
+        <img src="deadlift_back_position" width="200" height="200"/><br/><br/>
+
+        <b>¿Listo para Ponerlo en Práctica?</b><br/>
+        Recuerda: Perfeccionar tu técnica en el peso muerto no solo maximiza tus resultados, sino que también protege tu espalda y te permite entrenar con seguridad.<br/>
+        <b>¡Estás más cerca de dominar el peso muerto perfecto! ¡Buena suerte y a entrenar!</b>
+        ]]>
+    </string>
+
+
+
+</resources>
+
+
+

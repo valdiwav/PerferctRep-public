@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fgHome"
+        android:icon="@drawable/ic_home"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/fgExcercise"
+        android:icon="@drawable/ic_cam"
+        android:title="Ejercicios" />
+
+    <item
+        android:id="@+id/fgHelp"
+        android:icon="@drawable/ic_help"
+        android:title="Ayuda" />
+
+    <item
+        android:id="@+id/fgProfile"
+        android:icon="@drawable/ic_profile"
+        android:title="Perfil" />
+
+
+
+</menu>

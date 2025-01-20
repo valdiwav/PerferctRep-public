@@ -1,0 +1,5 @@
+<!-- res/drawable/circular_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#80FFFFFF"/> <!-- Color blanco semi-transparente (#80FFFFFF) -->
+    <corners android:radius="50dp"/>   <!-- Esquinas redondeadas para hacer el botón circular -->
+</shape>
